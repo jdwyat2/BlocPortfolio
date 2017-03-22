@@ -5,13 +5,20 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+### Contact me
 
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=b652521e196b6caa4c027a0b1fa3b42d" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' />
-  <input type='text' name='name' placeholder='Jonathan Wyatt' />
-  <input type='email' name='email' placeholder='jdwyatt87@gmail.com' />
+  <!--<input type='hidden' name='redirect_to' value='/thank-you' />-->
+<a style="display:none;">My name</a>
+  <input style="display:none;" type='text' name='name' placeholder='Jonathan Wyatt' />
+<a style="display:none;">My email</a>
+  <input style="display:none;" type='email' name='email' placeholder='jdwyatt87@gmail.com' />
+<br>
+<a style="display:none;">Your message</a>
+<br>
   <textarea name='message' placeholder='Write your message ...'></textarea>
+  <br>
+  
   <input type='submit' value='Send Message' />
 </form>
