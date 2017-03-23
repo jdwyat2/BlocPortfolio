@@ -6,7 +6,7 @@ url: "http://jdwyat2.github.io" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Jonathan Wyatt
-  avatar: "img/avatar.png"
+  avatar: "avatar.png"
   gravatar:
   description: "A website with blog posts and pages" # used by search engines
 
