@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-baseurl: "/BlocPortfolio/" # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 url: "http://jdwyat2.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Jonathan Wyatt
-  avatar: avatar.png
+  avatar: "img\avatar.png"
   gravatar:
   description: "A website with blog posts and pages" # used by search engines
 
